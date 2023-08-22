@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>items</key>
+	<array>
+		<dict>
+			<key>assets</key>
+			<array>
+				<dict>
+					<key>kind</key>
+					<string>software-package</string>
+					<key>url</key>
+					<string>https://cdn-update-kht2.tepaylink.vn/KiemHiepTinh2Mobile.ipa</string>
+				</dict>
+				<dict>
+					<key>kind</key>
+					<string>display-image</string>
+					<key>url</key>
+					<string>https://drive.usercontent.google.com/download?id=1wBZBos77aMccJqrpLOmnaQPwWwPKg829&amp;export=download&amp;authuser=0&amp;confirm=t&amp;uuid=68ae2a2f-2cfe-4dde-b5ab-7783662de56a&amp;at=APZUnTU_T4Qdp-FDYOeTIOj4Kgqu:1692680364109</string>
+				</dict>
+				<dict>
+					<key>kind</key>
+					<string>full-size-image</string>
+					<key>url</key>
+					<string>https://drive.usercontent.google.com/download?id=1CzhNqggBXPN79vBICjuYtBAYT9y6oTLK&amp;export=download&amp;authuser=0&amp;confirm=t&amp;uuid=1cb7e94c-ace8-458d-88ab-a44eae443bf0&amp;at=APZUnTW64RBOTtSUp-JkqHI342QE:1692680401410</string>
+				</dict>
+			</array>
+			<key>metadata</key>
+			<dict>
+				<key>bundle-identifier</key>
+				<string>com.tepaylink.kiemhieptinh2mobile</string>
+				<key>bundle-version</key>
+				<string>1.0.3</string>
+				<key>kind</key>
+				<string>software</string>
+				<key>platform-identifier</key>
+				<string>com.apple.platform.iphoneos</string>
+				<key>title</key>
+				<string>KiemHiepTinh2Mobile</string>
+			</dict>
+		</dict>
+	</array>
+</dict>
+</plist>
